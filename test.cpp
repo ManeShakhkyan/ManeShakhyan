@@ -1,4 +1,6 @@
 #include <iostrem>
 
+
 //comm
-int main()
+int main() {}
+
