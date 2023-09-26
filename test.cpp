@@ -1,3 +1,3 @@
 #include <iostrem>
 
-int main()
+int main() {}
